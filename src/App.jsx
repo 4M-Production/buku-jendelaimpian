@@ -218,7 +218,7 @@ export default function ArusStorefront() {
             Toko yang nggak pernah ketinggalan tren.
           </h1>
           <p className="text-stone-300 mb-8 max-w-md">
-            ARUS nge-update bagian "trending" secara otomatis berdasarkan
+            BUKU nge-update bagian "trending" secara otomatis berdasarkan
             data pencarian dan penjualan terbaru — bukan ditulis manual
             setiap minggu.
           </p>
